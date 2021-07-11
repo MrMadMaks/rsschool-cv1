@@ -22,3 +22,12 @@ I know HTML, CSS, Tilda, Figma, Photoshop, Illustrator at an advanced level.
 ## Education
 
 Auto transport and Electromechanical College
+* Vehicle repair and maintenance technician
+
+## English
+
+B1(intermediant)
+
+## Achievements
+
+I am included in the encyclopedia of gifted children of Russia for 2007.
