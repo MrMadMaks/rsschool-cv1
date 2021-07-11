@@ -9,3 +9,13 @@ I am actively engaged in self-education in the field of web-development, I have 
 At the moment, I would like to become part of a team of professionals in order to develop together with them and contribute to the common cause.<br>
 I am open to learning and focused on results.
 
+## Skills
+
+I know HTML, CSS, Tilda, Figma, Photoshop, Illustrator at an advanced level.
+
+## My commercial works
+
+
+https://mini-shopp.ru
+https://smart-stories.ru
+https://online-kosa.ru
