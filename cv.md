@@ -1,0 +1,33 @@
+# Maxim Anikin 
+
+[Email: maxianikin@gmail.com](maxianikin@gmail.com) <br>
+Tel: +7 921 188 48 46
+
+## About me
+
+I am actively engaged in self-education in the field of web-development, I have completed many courses and consolidated the result by performing real projects on a freelance. <br>
+At the moment, I would like to become part of a team of professionals in order to develop together with them and contribute to the common cause.<br>
+I am open to learning and focused on results.
+
+## Skills
+
+I know HTML, CSS, Tilda, Figma, Photoshop, Illustrator at an advanced level.
+
+## My commercial works
+
+[https://mini-shopp.ru](https://mini-shopp.ru) <br>
+[https://smart-stories.ru](https://smart-stories.ru) <br>
+[https://online-kosa.ru](https://online-kosa.ru)
+
+## Education
+
+Auto transport and Electromechanical College
+* Vehicle repair and maintenance technician
+
+## English
+
+B1(intermediant)
+
+## Achievements
+
+I am included in the encyclopedia of gifted children of Russia for 2007.
