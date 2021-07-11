@@ -15,7 +15,10 @@ I know HTML, CSS, Tilda, Figma, Photoshop, Illustrator at an advanced level.
 
 ## My commercial works
 
+[https://mini-shopp.ru](https://mini-shopp.ru) <br>
+[https://smart-stories.ru](https://smart-stories.ru) <br>
+[https://online-kosa.ru](https://online-kosa.ru)
 
-https://mini-shopp.ru
-https://smart-stories.ru
-https://online-kosa.ru
+## Education
+
+Auto transport and Electromechanical College
