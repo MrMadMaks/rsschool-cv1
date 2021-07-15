@@ -1,1 +1,1 @@
-https://MrMadMaks.github.io/rsschool-cv/cv
+https://priceless-volhard-0c3b4a.netlify.app/
