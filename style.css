@@ -1,7 +1,12 @@
-body {
+.wrapper {
     margin: 0 auto;
     padding: 20px;
     max-width: 1440px;
+}
+header li {
+    list-style: none;
+    position: relative;
+    left: -40px;
 }
 a {
     text-decoration: none;
